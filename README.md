@@ -25,7 +25,7 @@ It can be used by:
 
 ## Events 
 
-- FIRST CTI 2026, Munich [events/first-cti-2026/](events/first-cti-2026/) 
+- FIRST CTI 2026, Munich [events/first-cti-2026/](events/first-cti-2026/) - [exercises](https://github.com/rulezet/rulezet-core/issues?q=is%3Aissue%20state%3Aopen%20label%3Aworkshop-firstcti2026)
 
 ## License
 
