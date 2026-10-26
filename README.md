@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/rulezet-workshop.svg" width="360" alt="Rulezet Workshop">
+</p>
+
 # rulezet-workshop
 
 Materials for the **Rulezet workshop**, including the slide deck, hands-on exercises, demo material, and supporting resources.
